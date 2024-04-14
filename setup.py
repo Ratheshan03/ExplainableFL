@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='explainablefl',
-    version='0.1.0',
+    version='0.0.1',
     author='Ratheshan Sathiyamoorthy',
     author_email='lionratheshan@gmail.com',
     packages=find_packages(),
