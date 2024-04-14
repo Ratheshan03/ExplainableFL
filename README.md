@@ -47,6 +47,12 @@ shap_plot_buf, _ = federated_xai.explain_client_model(model)
 
 Contributions are welcome! Please feel free to submit pull requests or open issues to improve the documentation, code quality, or add new features.
 
+## Next updates
+- Extended functionality to support additional frameworks beyond PyTorch.
+- Modify explainable functions to generate more interactive visualizations.
+- Improve error handling.
+- Testing CI/CD pipelines.
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
