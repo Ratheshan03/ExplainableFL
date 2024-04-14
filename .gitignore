@@ -126,6 +126,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.pypirc
 
 # pytype static type analyzer
 .pytype/
