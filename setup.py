@@ -17,7 +17,7 @@ setup(
     long_description_content_type='text/markdown',
     license='MIT',
     keywords='federated learning explainable AI SHAP',
-    url='https://github.com/ratheshan03/explainablefl',
+    url='https://github.com/Ratheshan03/ExplainableFL',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
